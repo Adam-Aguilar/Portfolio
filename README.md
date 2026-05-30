@@ -1,62 +1,49 @@
-# Hello, I'm Adam S. Aguilar
+# Project Title
 
-I am a student in Fullbright with a profound interest in technology and a dedication to solving complex 
-problems.
+---
 
-## Objective
+- ESP32 Expansion Board
 
-My journey in electronics enginnering has led me to be more creative and passionate, and I am now eager to transition into this field,
-specifically becoming an electronic engineer.
+---
 
-## Hobbies
+## Project Description
 
--Cooking 
--Travel
--Coding
+The *ESP32 Expansion Board* is a custom-designed printed circuit board (PCB) that improves the usability and connectivity of an ESP32 development module. It expands the GPIO pins of the ESP32, making it easier to connect sensors, modules, LEDs, relays, and other electronic components without complicated wiring. The board provides organized pin headers, stable power distribution, and convenient access to input/output connections for rapid prototyping and embedded system development. ESP32 expansion boards are commonly used for IoT, automation, robotics, and smart system projects because they simplify hardware integration and improve circuit reliability. 
 
-#Skills 
-
-|Skill  | Level  |
-|-------|--------|
-|  C++  |Beginner|
-|Arduino|Beginner|
-|PCB Design|Beginner|
-
-#Projects
-
-### * Arduino Led blink
-Simple Arduino Led blinking project usng C++ 
-### * EasyEDA schematic
-ESP32 Expansion board
-
-### PCB Design Practice 
-Created PCB layouts using EasyEDA. ,Create 
-Schematic using EasyEDA.
-
-## Favorite Food
-Burger
-Pizza 
-Fries 
-Sisig 
-
-##
-
-Future goals - To become an Electornic Engineer, have my own farm and a healthy family
-
-## Contact
-
-Github:Adam-Aguilar
-Email:a68028812@gmail.com
+----
 
 
+## Features
 
- 
+- Easy access to all ESP32 GPIO pins
+-  Organized pin headers for cleaner wiring
+- Supports connection to sensors and modules
+-  Stable power distribution for external devices
+-  Compatible with prototyping and IoT applications
+-  Compact PCB layout for convenient use and mounting
 
+## Components Used
 
+-  ESP32 Development Board / ESP32-WROOM Module-  Header Pins (Male/Female)
+- Voltage Regulator (if included)
+- Capacitors and Resistors
+- Power Supply Connector (USB/DC Jack)
+- LED Power Indicator
 
+## Software Used
 
+* *EasyEDA* – PCB and schematic design
+* *KiCad* (optional) – PCB editing and file compatibility
+* *Arduino IDE* – ESP32 programming and testing
 
+## Author Name
 
+- Adam Aguilar
 
+  ---
 
+## Course & Section
+
+---
+ECE/EN1B
 
